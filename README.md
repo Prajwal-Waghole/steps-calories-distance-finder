@@ -1,4 +1,4 @@
-# steps-calories-distance-finder
+# CalTrack Master...
 
 Yesterday I did some workout and my smartwatch didnt showed how many calories i burned, but it showed how many steps i walked, so I created a machine which can 
 
